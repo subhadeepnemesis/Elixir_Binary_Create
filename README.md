@@ -1,4 +1,4 @@
-# Elixir_Binary_Create
+# Elixir Binary Create
 
 The shell script will create single binary file for elixir project.
 
