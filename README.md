@@ -7,7 +7,7 @@ The shell script will create single binary file for elixir project.
 ```sh
 $ cd Elixir_Binary_Create
 $ chmod +x binary_create_elixir.sh
-$ ./binary_create_elixir.sh <target folder>
+$ ./binary_create_elixir.sh <target directory>
 ```
 And the Magic.
 
